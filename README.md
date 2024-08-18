@@ -21,6 +21,11 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
+## Dashboard Admin
+
+![image](https://github.com/user-attachments/assets/214da81f-2351-4275-a1e2-cb6c57712e38)
+
+
 ## Design Database
 
 ![Screenshot 2024-08-18 141341](https://github.com/user-attachments/assets/fc9acfca-eb5e-40e6-869d-f9c706eb28a1)
