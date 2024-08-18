@@ -1,4 +1,5 @@
 @extends('Admin.layouts.app')
+@section('title','Invoices')
 @section('content')
 
     <body class="bg-light font-sans">
