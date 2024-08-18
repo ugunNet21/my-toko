@@ -21,10 +21,10 @@
                     aria-haspopup="true" aria-expanded="false">
                     <div class="media align-items-center">
                         <span class="avatar avatar-sm rounded-circle">
-                            <img alt="Image placeholder" src="{{ asset('Admin/assets/img/theme/team-4-800x800.jpg') }}">
+                            <img alt="Image placeholder" src="{{ asset('Admin/assets/img/theme/team-1-800x800.jpg') }}">
                         </span>
                         <div class="media-body ml-2 d-none d-lg-block">
-                            <span class="mb-0 text-sm  font-weight-bold">Jessica Jones</span>
+                            <span class="mb-0 text-sm  font-weight-bold">Admin</span>
                         </div>
                     </div>
                 </a>
@@ -39,14 +39,6 @@
                     <a href="./examples/profile.html" class="dropdown-item">
                         <i class="ni ni-settings-gear-65"></i>
                         <span>Settings</span>
-                    </a>
-                    <a href="./examples/profile.html" class="dropdown-item">
-                        <i class="ni ni-calendar-grid-58"></i>
-                        <span>Activity</span>
-                    </a>
-                    <a href="./examples/profile.html" class="dropdown-item">
-                        <i class="ni ni-support-16"></i>
-                        <span>Support</span>
                     </a>
                     <div class="dropdown-divider"></div>
                     <a href="#!" class="dropdown-item">
