@@ -33,27 +33,33 @@
 
         <!-- Navigation -->
         <ul class="navbar-nav">
-            <li class="nav-item  active ">
-                <a class="nav-link  active " href="./index.html">
+            <li class="nav-item active">
+                <a class="nav-link active" href="./index.html">
                     <i class="ni ni-tv-2 text-primary"></i> Dashboard
                 </a>
             </li>
             <li class="nav-item">
-                <a class="nav-link " href="./examples/icons.html">
-                    <i class="ni ni-planet text-blue"></i> Invoices
-                </a>
-            <li class="nav-item">
-                <a class="nav-link " href="./examples/icons.html">
-                    <i class="ni ni-planet text-blue"></i> Products
+                <a class="nav-link" href="./examples/invoices.html">
+                    <i class="ni ni-single-copy-04 text-blue"></i> Invoices
                 </a>
             </li>
             <li class="nav-item">
-                <a class="nav-link " href="./examples/maps.html">
-                    <i class="ni ni-pin-3 text-orange"></i> Categories
+                <a class="nav-link" href="./examples/products.html">
+                    <i class="ni ni-box-2 text-green"></i> Products
                 </a>
             </li>
-
+            <li class="nav-item">
+                <a class="nav-link" href="./examples/categories.html">
+                    <i class="ni ni-bullet-list-67 text-orange"></i> Categories
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="./examples/customers.html">
+                    <i class="ni ni-single-02 text-yellow"></i> Customers
+                </a>
+            </li>
         </ul>
+
         <!-- Divider -->
         <hr class="my-3">
         <!-- Heading -->
@@ -80,9 +86,10 @@
         <ul class="navbar-nav">
             <li class="nav-item active active-pro">
                 <a class="nav-link" href="#">
-                    <i class="ni ni-send text-dark"></i> Version 1.1.0
+                    <i class="ni ni-settings-gear-65 text-dark"></i> Version 1.1.0
                 </a>
             </li>
         </ul>
+
 
     </div>
